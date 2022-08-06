@@ -16,7 +16,8 @@ However, making a **consistent** impact in applied settings requires to critical
 
 Doing the above well takes patience to grasp foundational knowledge beyond supervised learning, but also intuition about the concepts from econometrics and economics, experiment design, ethics, causal inference, Bayesian and frequentist statistics.. Yet, these fields keep evolving, and with them so does the toolset that allows us to formulate the problems better. 
 
-This open-source book represents a community-wide attempt to make you a data scientists, whose models are always useful in practice, teaching you the concepts, the context, and the code, to formulate and iteratively solve a modelling problems of increasing complexity. The entire book is drafted in Jupyter notebooks, seamlessly integrating exposition figures, math, and interactive examples with self-contained code. 
+This open-source book helps you acquire foundational knowledge, as well as, latest theory and practice. It never stops distilling the latest advances in relevant theory, and thus unlocking your potential to tackle increasingly complex modeling problems. 
 
-This book helps you acquire foundational knowledge, as well as, latest theory and practice. It never stops distilling the latest advances in relevant theory, and thus unlocking your potential to tackle increasingly complex modeling problems. 
+This  book represents a community-wide attempt to make you a data scientists or a researcher, whose models or research are always useful in practice, teaching you the concepts, the context, and the code, to formulate and iteratively solve a modelling problems of increasing complexity. The entire book is drafted in Jupyter notebooks, seamlessly integrating exposition figures, math, and interactive examples with self-contained code. 
+
 
